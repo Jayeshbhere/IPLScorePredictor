@@ -39,4 +39,6 @@ Dataset Used: ipl_data.csv
 
 **Streamlit App:**
 
-![](https://github.com/zep-analytics/IPLScorePredictor/blob/main/streamlit_app/ipl_score_predictor.gif)
+![](https://github.com/Jayeshbhere/IPLScorePredictor/blob/main/streamlit_app/ipl_score_predictor.gif)
+
+
