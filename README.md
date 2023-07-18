@@ -11,10 +11,6 @@ This Streamlit webapp enables user to predict total runs between teams using cur
 * SVR
 * Decision Tree Regressor
 
-**Hyperparamter Optimization:**
-
-Used optuna for paramter optimization.
-
 **Dataset:**
 
 The dataset comprises of over by over details of matches and runs from 2008 to 2020.
